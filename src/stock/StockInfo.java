@@ -9,6 +9,7 @@ public class StockInfo {
     public List<AvailableStock> getAvailableStocks() {
         return availableStocks;
     }
+
 }
 
 

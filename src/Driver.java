@@ -9,8 +9,7 @@ public class Driver {
         Stock stock6=new Stock(7,952,"AK",BuyOrSell.BUY,10,100.10);
         Stock stock7=new Stock(8,1001,"FK",BuyOrSell.SELL,20,240.10);
         Stock stock8=new Stock(9,1002,"FK",BuyOrSell.BUY,150,242.70);
-
-
+        Stoc
 
 
 
